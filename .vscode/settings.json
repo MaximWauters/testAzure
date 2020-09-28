@@ -1,0 +1,8 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/552c8578-13cd-47ac-aa00-fe590df197ab/resourceGroups/test2/providers/Microsoft.Web/sites/een2desite",
+    "appService.deploySubpath": ".",
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ]
+}
